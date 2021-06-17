@@ -12,7 +12,7 @@ Before submitting a text, the participant must verify which kind of texts are ac
 
 While the publishing house receives submissions from anyone, it will only accept those submissions that show good writing and original ideas through fiction. Accepted submissions will be tagged as "Candidates" and these will receive full professional editorial services such as stylistic correction and formatting to make it publishable online under the highest standars in the Spanish language. Authors of accepted submissions (Candidates) must only pay for said editorial services. Accepted submissions automatically enter a yearly contest.
 
-All published texts by this house are done so under a Creative Commons Attribution-ShareAlike 4.0 International License.
+All published texts by this house are done so under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Programming needs to fulfill the general idea.
 
