@@ -1,8 +1,8 @@
 # Editorial de Letras
 
-# General idea.
+## General idea.
 
-Editorial de Letras is an open-access non-profit publisher of literature in Spanish. It seeks to build an intuitive website and digital archive to make Spanish literature in the public domain freely available to everyone who has internet connection, as well as occasionally publish original commissioned or submitted texts. This publishing house also has an editorial standard defined by a board which associate authors who wish to publish with the organization must comply to since said standard will be the differential factor between the House and current online publishers.
+Editorial de Letras is an open-access non-profit independent publisher of literature in Spanish. It seeks to build an intuitive website and digital archive to make Spanish literature in the public domain freely available to everyone who has internet connection, as well as occasionally publish original commissioned or submitted texts. This publishing house also has an editorial standard defined by a board which associate authors who wish to publish with the organization must comply to since said standard will be the differential factor between the House and current online publishers.
 
 This house only publishes transcriptions of the public domain or original texts by agreement with the author.
  
@@ -14,5 +14,5 @@ While the publishing house receives submissions from anyone, it will only accept
 
 All published texts by this house are done so under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
-# Programming needs to fulfill the general idea.
+## Programming needs to fulfill the general idea.
 
